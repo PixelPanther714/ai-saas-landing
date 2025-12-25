@@ -14,14 +14,14 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://your-domain.com",
+    url: "https://ai-saas-landing-coral.vercel.app/",
     title: "Enterprise AI Platform | Secure AI Solutions",
     description:
       "Enterprise-grade AI platform with advanced security, customization, and control for businesses and government agencies.",
     siteName: "Enterprise AI Platform",
     images: [
       {
-        url: "https://your-domain.com/og-image.jpg",
+        url: "https://ai-saas-landing-coral.vercel.app/og-image.jpg",
         width: 1200,
         height: 630,
         alt: "Enterprise AI Platform",
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Enterprise AI Platform | Secure AI Solutions",
     description: "Enterprise-grade AI platform with advanced security, customization, and control.",
-    images: ["https://your-domain.com/twitter-image.jpg"],
+    images: ["https://ai-saas-landing-coral.vercel.app/twitter-image.jpg"],
   },
   robots: {
     index: true,
